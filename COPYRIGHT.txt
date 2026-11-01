@@ -1,0 +1,17 @@
+﻿GAME QUEUE NOTIFIER - AUTHORSHIP
+===============================
+
+Copyright (c) 2026 Woltano. All rights reserved.
+
+Game Queue Notifier is a project by the author using the pseudonym Woltano.
+This notice applies to application components, documentation and materials
+for which the author holds the rights. Any third-party components retain
+their own terms and rights.
+
+Receiving an EXE file, a Portable package or source code does not transfer
+authorship or the right to present the project as your own. LICENSE.txt
+describes the terms for using and sharing an unchanged release package.
+
+Keep the original release package, the SHA-256 checksum file and a dated
+copy of the source code. A checksum helps identify release files, but it
+does not in itself constitute proof of authorship.

@@ -1,0 +1,25 @@
+﻿GAME QUEUE NOTIFIER - TERMS OF USE AND REDISTRIBUTION
+====================================================
+
+Copyright (c) 2026 Woltano. All rights reserved.
+
+1. The rights holder permits downloading, installing and using an officially
+   released version of Game Queue Notifier free of charge. You may keep copies
+   for your own use and share the complete, unchanged release package with
+   others at no charge, provided that this license, COPYRIGHT.txt, the program
+   name and the author credit are retained.
+
+2. You must not present, advertise or redistribute the application or its code
+   as your own product, or remove or replace authorship information. Providing
+   source code in a build package does not grant permission to publish modified
+   versions, sell, sublicense or incorporate the code into another product
+   without separate permission from the rights holder.
+
+3. The permission in point 1 does not extend to third-party marks, files or
+   other materials beyond the scope of the GQN rights holder's rights. This
+   document does not restrict rights that cannot be excluded under mandatory
+   provisions of law.
+
+4. The program is provided as is, without any promise that it will work with
+   every game, Windows configuration or anti-cheat system. Liability is limited
+   only to the extent permitted by law.

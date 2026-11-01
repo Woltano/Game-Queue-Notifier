@@ -1,0 +1,49 @@
+﻿GAME QUEUE NOTIFIER 1.0.0 - PRIVACY
+Woltano | 2026-10-19
+=============================================
+
+GQN works locally on your Windows computer. It contains no telemetry, advertising
+analytics or automatic crash-report uploads. It does not send your game list,
+settings, baseline images or logs to the author.
+
+Data used and stored locally
+- Interface, audio and detection settings, game profiles, presets and saved
+  automation settings. These can include full paths to application executables
+  and selected scripts or programs.
+- Saved baseline images of selected window areas. These are real image fragments
+  and can contain information visible in the application.
+- Copies of imported sounds and configuration backups.
+- The current Activity Log in memory and helper logs and automation-status files
+  on disk. Diagnostics can contain local paths, application names, process IDs
+  and start times, system and audio-device information, application version
+  and helper status.
+
+GQN reads standard Windows information about windows, processes, taskbar
+notifications and audio devices. Visual-change detection captures the selected
+window's image. GQN does not modify game files, read or write game-process memory,
+inject code, or control keyboard or mouse input in games.
+
+The installed edition stores the application and its data in the current user's
+folder:
+%LOCALAPPDATA%\Programs\GameQueueNotifier
+The installer creates private folders and sets permissions on its own installation
+folder. Before performing automatic actions, the helper checks local paths and
+file/folder permissions. It does not upload that information. With automation
+enabled, the helper can run after the main window closes and at Windows sign-in.
+
+Sharing and external actions
+Copy diagnostics places text on the Windows clipboard; it does not send it.
+You decide whether and where to paste it. Some paths are redacted, but other paths
+or information in messages may remain. Review diagnostic text, baseline images
+and the application folder before sharing them.
+
+Clicking the author's support link opens the external website
+https://buymeacoffee.com/woltano in your browser. That website has its own privacy
+practices. The optional custom action starts a script or program you select.
+That external file determines its own data handling and network connections.
+
+Removal
+Removal of saved GQN data is selected by default during uninstallation. You can
+clear that option to keep settings, presets, baseline images and imported sounds.
+External games and scripts are not removed. Copies you made yourself, diagnostics
+you shared and the installer's log may remain outside the removed installation.
